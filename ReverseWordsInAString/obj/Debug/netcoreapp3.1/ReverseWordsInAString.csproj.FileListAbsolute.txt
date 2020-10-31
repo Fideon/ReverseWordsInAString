@@ -1,0 +1,13 @@
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.exe
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.deps.json
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.runtimeconfig.json
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.runtimeconfig.dev.json
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.dll
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\bin\Debug\netcoreapp3.1\ReverseWordsInAString.pdb
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.csprojAssemblyReference.cache
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.AssemblyInfoInputs.cache
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.AssemblyInfo.cs
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.csproj.CoreCompileInputs.cache
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.dll
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.pdb
+C:\Users\fsf91\_projects\ReverseWordsInAString\ReverseWordsInAString\obj\Debug\netcoreapp3.1\ReverseWordsInAString.genruntimeconfig.cache
